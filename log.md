@@ -10,7 +10,6 @@
 
 
 ### Day 1: June 22, 2021 Tuesday
-##### (delete me or comment me out)
 
 **Today's Progress**: 
 
