@@ -11,11 +11,11 @@
 
 ### Day 1: June 22, 2021 Tuesday
 
-**Today's Progress**: 
+**Today's Progress**: I continued onwards with the Foundations course in The Odin Project! I learned so much about the command line and enjoyed practicing what I learned on my own Macbook's terminal!
 
-**Thoughts**: 
+**Thoughts**: This stuff is hard, but I am still riding the highs of motivation and determination! Now to set up a consistent study and sleep schedule so that I'm not so tired after work. I literally fell asleep at my desk while studying today haha!
 
-**Link(s) to work**: 
+**Link(s) to work**: None.
 
 
 ### Day 2: June 23, 2021 Wednesday
