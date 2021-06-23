@@ -20,7 +20,61 @@
 
 ### Day 2: June 23, 2021 Wednesday
 
-**Today's Progress**:
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 2: June 23, 2021 Wednesday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 2: June 23, 2021 Wednesday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 2: June 23, 2021 Wednesday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 2: June 23, 2021 Wednesday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 2: June 23, 2021 Wednesday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 2: June 23, 2021 Wednesday
+
+**Today's Progress**: 
 
 **Thoughts** 
 
