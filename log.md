@@ -27,7 +27,7 @@
 **Link(s) to work**
 
 
-### Day 2: June 23, 2021 Wednesday
+### Day 3: June 24, 2021 Thursday
 
 **Today's Progress**: 
 
@@ -36,7 +36,7 @@
 **Link(s) to work**
 
 
-### Day 2: June 23, 2021 Wednesday
+### Day 4: 
 
 **Today's Progress**: 
 
@@ -45,7 +45,7 @@
 **Link(s) to work**
 
 
-### Day 2: June 23, 2021 Wednesday
+### Day 5: 
 
 **Today's Progress**: 
 
@@ -54,7 +54,7 @@
 **Link(s) to work**
 
 
-### Day 2: June 23, 2021 Wednesday
+### Day 6: 
 
 **Today's Progress**: 
 
@@ -63,7 +63,7 @@
 **Link(s) to work**
 
 
-### Day 2: June 23, 2021 Wednesday
+### Day 7:
 
 **Today's Progress**: 
 
@@ -72,7 +72,7 @@
 **Link(s) to work**
 
 
-### Day 2: June 23, 2021 Wednesday
+### Day 8:
 
 **Today's Progress**: 
 
@@ -81,7 +81,7 @@
 **Link(s) to work**
 
 
-### Day 2: June 23, 2021 Wednesday
+### Day 9:
 
 **Today's Progress**: 
 
@@ -90,7 +90,7 @@
 **Link(s) to work**
 
 
-### Day 2: June 23, 2021 Wednesday
+### Day 10:
 
 **Today's Progress**: 
 
