@@ -97,3 +97,30 @@
 **Thoughts** 
 
 **Link(s) to work**
+
+
+### Day 10: July 2, 2021 Friday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 10: July 3, 2021 Saturday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 10: July 4, 2021 Sunday
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
