@@ -20,11 +20,11 @@
 
 ### Day 2: June 23, 2021 Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: 39% completion in the Foundations course of The Odin Project! I started learning about HTML, CSS, and JavaScript. I even got a very simplistic webpage together using what I learned!
 
-**Thoughts** 
+**Thoughts** It's really fun to learn, but surprisingly harder than when I was learning Python. I guess it's because the syntax in HTML and CSS is not very intuitive as it pertains to creating the layout of a webpage/website, whereas Python was used to solve logical problems. It certainly is not impossible by any means, but the learning curve might be a bit more noticeable. No worries! I can do it!!
 
-**Link(s) to work**
+**Link(s) to work** file:///Users/carolynkim/Desktop/web-projects/test-site/index.html
 
 
 ### Day 3: June 24, 2021 Thursday
