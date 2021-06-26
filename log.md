@@ -33,16 +33,16 @@
 
 **Thoughts** I want to start a project tomorrow only using HTML. I'm thinking maybe a survey form or a biography page??
 
-**Link(s) to work**
+**Link(s) to work** None.
 
 
 ### Day 4: June 25, 2021 Friday
 
-**Today's Progress**: 
+**Today's Progress**: I began my learning of JavaScript through freeCodeCamp's JavaScript Algorithms and Data Structures Certification! With some Python background, it's been a relatively smooth transition. I'm having so much fun! I also started freeCodeCamp's Front End Development Libraries Certification to begin my learning of React! I also started Twitch's Training plan (through Onramp).
 
-**Thoughts** 
+**Thoughts** My goal right now is to go for Twitch's Fullstack + Frontend Apprenticeship program! I did a lot of jumping around today, but that was to get an idea of how to better structure my study sessions to best prepare myself to apply for the apprenticeship! The topics they focus on in their Training plan are React, TypeScript, GraphQL, Go, and AWS, so I felt that it was in my best interest to go through freeCodeCamp's JavaScript Algorithms and Data Structures Certification first and then their Front End Development Libraries Certification. I'll get real familiar with JavaScript and React, and then prepare for the other topics through the Training plan. If necessary, I'll branch out and do my own studying if I need to gain a better understanding of the other topics.
 
-**Link(s) to work**
+**Link(s) to work** None.
 
 
 ### Day 5: June 26, 2021 Saturday
