@@ -31,7 +31,7 @@
 
 **Today's Progress:** I wanted a better understanding of HTML, so today I focused on learning HTML! There is a Responsive Web Design Certification by FreeCodeCamp that I wanted to try out, and this was the perfect opportunity to do so! I completed the Basic HTML and HTML5 course. Still at 39% completion in the Foundations course!
 
-**Thoughts:**: I want to start a project tomorrow only using HTML. I'm thinking maybe a survey form or a biography page??
+**Thoughts:** I want to start a project tomorrow only using HTML. I'm thinking maybe a survey form or a biography page??
 
 **Link(s) to work:** None.
 
