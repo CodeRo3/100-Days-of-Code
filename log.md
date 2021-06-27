@@ -47,11 +47,11 @@
 
 ### Day 5: June 26, 2021 Saturday
 
-**Today's Progress**: 
+**Today's Progress**: Still going through the JavaScript Algorithms and Data Structures Certification on freeCodeCamp! I planned on finishing the Basic Java course today, but a friend wanted to play some impromptu tennis! It was definitely a good break away from studying. I'll finish tomorrow (technically today though because I forgot to update the log yesterday!) and then get started on the ES6 course.
 
-**Thoughts** 
+**Thoughts** I learned a lot of interesting things about JavaScript that aren't prevalent in Python! They have strict equality operators and 8 different data types. One data type is called object, and that's basically Python dictionaries! It's interesting because it appears that JavaScript is associating this data type with object-oriented programming through the name they gave it, whereas Python simply referred to this data structure as a dictionary and it was not really inherently tied to OOP itself. You also first initialize objects in JS as variables! Very interesting.
 
-**Link(s) to work**
+**Link(s) to work** None.
 
 
 ### Day 6: June 27, 2021 Sunday
