@@ -56,11 +56,11 @@
 
 ### Day 6: June 27, 2021 Sunday
 
-**Today's Progress:**
+**Today's Progress:** Still working on the JavaScript Algorithms and Data Structures Certification! Sometimes, life will throw you some curveballs that'll change your expectations and plans. That's okay! A little behind today, but I will make up for it tomorrow!
 
-**Thoughts:**
+**Thoughts:** Learning objects in JavaScript is kind of challenging!
 
-**Link(s) to work:**
+**Link(s) to work:** None.
 
 
 ### Day 7: June 28, 2021 Monday
