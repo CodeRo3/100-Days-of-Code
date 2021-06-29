@@ -65,11 +65,11 @@
 
 ### Day 7: June 28, 2021 Monday
 
-**Today's Progress:**
+**Today's Progress:** Almost done with the JavaScript Algorithms and Data Structures Certification! This is kind of unrelated to coding, but I worked on my resume to prepare to apply for the Twitch apprenticeship!
 
-**Thoughts:**
+**Thoughts:** I received an email from onramp telling me that the correct training plan is now live! My previous attack plan is no longer relevant, so I had to come up with a new strategy! Thankfully, the current training plan is shorter, but still requires my 110% effort! I am going to shift back to the Responsive Web Design Certification, complete that, put up some projects, and then finish up the rest of the JavaScript Algorithm and Data Structures Certification! As I am doing this, I will also be working on my resume and my essays. I got this!
 
-**Link(s) to work:**
+**Link(s) to work:** None.
 
 
 ### Day 8: June 29, 2021 Tuesday
