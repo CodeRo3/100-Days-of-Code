@@ -74,11 +74,11 @@
 
 ### Day 8: June 29, 2021 Tuesday
 
-**Today's Progress:**
+**Today's Progress:** I created a tribute page using mainly HTML today! It was more of a biography though; I wanted to use this opportunity to learn more about U.S. history, so I decided to research a random president! It ended up being Ronald Reagan. It was a great day of learning: learning of applying HTML to real life and learning of history!
 
-**Thoughts:**
+**Thoughts:** Actually getting my hands dirty and struggling through today's project was a lot more helpful than passively engaging by watching YouTube video tutorials and reading HTML/CSS/JavaScript lessons on freeCodeCamp. I'll be tackling another project tomorrow-- a survey!
 
-**Link(s) to work:**
+**Link(s) to work:** https://github.com/CodeRo3/Ronald-Reagan-Bio-Project
 
 
 ### Day 9: June 30, 2021 Wednesday
