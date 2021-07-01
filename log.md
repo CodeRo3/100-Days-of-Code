@@ -83,11 +83,11 @@
 
 ### Day 9: June 30, 2021 Wednesday
 
-**Today's Progress:**
+**Today's Progress:** I completed a survey project using HTML and CSS! I created a sunscreen awareness survey because I am super passionate about sunscreen use! It's extremely important to our skin health! This project was a win-win for me.
 
-**Thoughts:**
+**Thoughts:** I'm in that phase where I have a general idea of how to code to reach my desired output, but it still takes quite a bit of googling. I'm getting real good at googling specific situations, that's for sure!
 
-**Link(s) to work:**
+**Link(s) to work:** https://github.com/CodeRo3/Sunscreen-Survey
 
 
 ### Day 10: July 1, 2021 Thursday
