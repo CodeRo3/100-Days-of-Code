@@ -92,20 +92,20 @@
 
 ### Day 10: July 1, 2021 Thursday
 
-**Today's Progress:**
+**Today's Progress:** Unfortunately, I hit whatever the equivalent of writer's block is for programmers. I did not have much motivation either.. I did play tennis though and that was fun!
 
-**Thoughts:**
-
-**Link(s) to work:**
+**Thoughts:** Today was a rest day. I shall resume tomorrow!
+ 
+**Link(s) to work:** None.
 
 
 ### Day 10: July 2, 2021 Friday
 
-**Today's Progress:**
+**Today's Progress:** Since my focus these days is Twitch's apprenticeship, I beefed up my LinkedIn profile and my resume today! 
 
-**Thoughts:**
+**Thoughts:** Writing good resumes is hard *__* 
 
-**Link(s) to work:**
+**Link(s) to work:** None.
 
 
 ### Day 10: July 3, 2021 Saturday
