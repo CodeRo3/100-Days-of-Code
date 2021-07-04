@@ -92,23 +92,32 @@
 
 ### Day 10: July 1, 2021 Thursday
 
-**Today's Progress:** Unfortunately, I hit whatever the equivalent of writer's block is for programmers. I did not have much motivation either.. I did play tennis though and that was fun!
+**Today's Progress:** Unfortunately, I hit whatever the equivalent of writer's block is for programmers. Coding was extra hard today! I did play tennis though and that was fun!
 
 **Thoughts:** Today was a rest day. I shall resume tomorrow!
  
 **Link(s) to work:** None.
 
 
-### Day 10: July 2, 2021 Friday
+### Day 11: July 2, 2021 Friday
 
-**Today's Progress:** Since my focus these days is Twitch's apprenticeship, I beefed up my LinkedIn profile and my resume today! 
+**Today's Progress:** Since my focus these days is Twitch's apprenticeship, I beefed up my LinkedIn profile and my resume today! I also edited my preexisting projects on CodePen. 
 
 **Thoughts:** Writing good resumes is hard *__* 
 
 **Link(s) to work:** None.
 
 
-### Day 10: July 3, 2021 Saturday
+### Day 12: July 3, 2021 Saturday
+
+**Today's Progress:** I started my product landing page project today! It's going to be centered around sunscreen products. I have a general vision of how it'll turn out, so it's just a matter of coding it! I also continued to work on my resume, LinkedIn, and essay questions.
+
+**Thoughts:** I've heard good things about the Head First series, so I think I'll give it a try!
+
+**Link(s) to work:** None.
+
+
+### Day 13: July 4, 2021 Sunday
 
 **Today's Progress:**
 
@@ -117,7 +126,25 @@
 **Link(s) to work:**
 
 
-### Day 10: July 4, 2021 Sunday
+### Day 14: July 4, 2021 Sunday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+
+### Day 15: July 4, 2021 Sunday
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+
+### Day 16: July 4, 2021 Sunday
 
 **Today's Progress:**
 
