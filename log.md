@@ -119,11 +119,11 @@
 
 ### Day 13: July 4, 2021 Sunday
 
-**Today's Progress:**
+**Today's Progress:** I actually found a better idea I want to pursue instead of the product landing page! I want to create a webpage that will let me rank all the sunscreen products I use. That's the general premise, but I want to add other features like comments, a proper ranking system, etc. It will be fun! So I began brainstorming for that idea on HTML/CSS. The Twitch application is due tomorrow as well! It was well out of my comfort zone, but I am so glad for the opportunity!
 
-**Thoughts:**
+**Thoughts:** Happy happy 4th of July!
 
-**Link(s) to work:**
+**Link(s) to work:** None.
 
 
 ### Day 14: July 4, 2021 Sunday
