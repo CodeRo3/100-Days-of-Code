@@ -126,7 +126,16 @@
 **Link(s) to work:** None.
 
 
-### Day 14: July 4, 2021 Sunday
+### Day 14: July 5, 2021 Monday
+
+**Today's Progress:** I finally feel like I'm really understanding what I'm learning! I finished the Basic CSS portion of freeCodeCamp's Responsive Web Design certification, and I really just had that "A-ha!" moment. It's finally clicking and coming a bit easier!
+
+**Thoughts:** I feel so much more confident in my abilities, and that encourages me to study more and work harder! I also turned in my Twitch apprenticeship application, yay!
+
+**Link(s) to work:** None.
+
+
+### Day 15: July 6, 2021 Tuesday
 
 **Today's Progress:**
 
@@ -135,16 +144,7 @@
 **Link(s) to work:**
 
 
-### Day 15: July 4, 2021 Sunday
-
-**Today's Progress:**
-
-**Thoughts:**
-
-**Link(s) to work:**
-
-
-### Day 16: July 4, 2021 Sunday
+### Day 16: July 7, 2021 Wednesday
 
 **Today's Progress:**
 
