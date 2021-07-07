@@ -137,11 +137,11 @@
 
 ### Day 15: July 6, 2021 Tuesday
 
-**Today's Progress:**
+**Today's Progress:** Today I got through more than half of the Applied Visual Design section of the Responsive Web Design certification! The Odin Project advised that I finish this certification before moving along further, so that is what I plan to do!
 
-**Thoughts:**
+**Thoughts:** I have been adhering to a strict bedtime routine so that I can promote productivity and progress! I think it's definitely helping at least! 
 
-**Link(s) to work:**
+**Link(s) to work:** None.
 
 
 ### Day 16: July 7, 2021 Wednesday
