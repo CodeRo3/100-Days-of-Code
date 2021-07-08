@@ -137,7 +137,7 @@
 
 ### Day 15: July 6, 2021 Tuesday
 
-**Today's Progress:** Today I got through more than half of the Applied Visual Design section of the Responsive Web Design certification! The Odin Project advised that I finish this certification before moving along further, so that is what I plan to do!
+**Today's Progress:** Today I got through more than half of the Applied Visual Design section of the Responsive Web Design Certification! The Odin Project advised that I finish this certification before moving along further, so that is what I plan to do!
 
 **Thoughts:** I have been adhering to a strict bedtime routine so that I can promote productivity and progress! I think it's definitely helping at least! 
 
@@ -146,8 +146,8 @@
 
 ### Day 16: July 7, 2021 Wednesday
 
-**Today's Progress:**
+**Today's Progress:** I am almost done with the Responsive Web Design Certification! I only have the CSS Grid section left and then the 3 remaining projects! I started a new project today where I create a website using a glass design. It's been such an amazing way to apply what I've learned in the Responsive Web Design course!
 
-**Thoughts:**
+**Thoughts:** I'd like to try out my sunscreen idea in this glass website project so I can prepare for the real thing! 
 
-**Link(s) to work:**
+**Link(s) to work:** https://github.com/CodeRo3/Glass-Website-Project
