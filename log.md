@@ -151,3 +151,12 @@
 **Thoughts:** I'd like to try out my sunscreen idea in this glass website project so I can prepare for the real thing! 
 
 **Link(s) to work:** https://github.com/CodeRo3/Glass-Website-Project
+
+
+### Day 17: July 8, 2021 Thursday
+
+**Today's Progress:** I continued my work on my personal project. I added images, links, and text! 
+
+**Thoughts:** Images have been a bit tricky for me, so tomorrow will be sent learning how to resize the images appropriately!
+
+**Link(s) to work:** https://github.com/CodeRo3/Glass-Website-Project
